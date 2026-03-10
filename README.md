@@ -29,7 +29,7 @@ Random module
 
 Clone this repository
 
-git clone https://github.com/AkshayaMahajan12/todo-streamlit-app.git
+git clone [https://github.com/AkshayaMahajan12/todo-streamlit-app.git](https://github.com/AkshayaMahajan12/Smart-Study-Question-Generator/)
 
 
 📂 Project Structure
