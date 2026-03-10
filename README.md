@@ -27,11 +27,6 @@ Streamlit
 
 Random module
 
-Clone this repository
-
-git clone https://github.com/AkshayaMahajan12/Smart-Study-Question-Generator/
-
-
 📂 Project Structure
 study-question-generator
 │
